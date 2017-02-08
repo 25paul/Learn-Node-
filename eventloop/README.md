@@ -33,6 +33,6 @@ eventEmitter.emit('eventName');
 ### Node 应用程序是如何工作的？
 在 Node 应用程序中，执行异步操作的函数将回调函数作为最后一个参数， 回调函数接收错误对象作为第一个参数。<br/>
 
-** 实例7-1.js**<br/>
+**实例7-1.js** <br/>
 
 https://segmentfault.com/a/1190000002989845
