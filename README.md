@@ -139,3 +139,8 @@ http.createServer(function(request, response) {
   response.end();
 }).listen(8888);
 ```
+
+## Node.js JXcore 打包
+Node.js 是一个开放源代码、跨平台的、用于服务器端和网络应用的运行环境。<br/>
+
+JXcore 是一个支持多线程的 Node.js 发行版本，基本不需要对你现有的代码做任何改动就可以直接线程安全地以多线程运行。
